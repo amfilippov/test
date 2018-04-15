@@ -8,6 +8,7 @@ namespace HelloApp
         {
             Console.WriteLine(DateTime.Now);
 			Console.ReadLine();
+			Console.ReadLine();
         }
     }
 }
